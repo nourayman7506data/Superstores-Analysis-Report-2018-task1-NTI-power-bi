@@ -13,7 +13,8 @@ An interactive Power BI report and dashboard designed to analyze and summarize s
 ### 2. Geographic & State Distribution
 
 **Filled Map View**
-![Map View](<img width="1488" height="811" alt="Screenshot 2026-08-17 204746" src="https://github.com/user-attachments/assets/35495423-e806-4ac9-956b-637e3ea4a47d" />)
+![Map View](<<img width="1488" height="811" alt="Screenshot 2026-08-17 204746" src="https://github.com/user-attachments/assets/1a5240e9-6e3a-490f-a7e7-2f6a8d39d377" />
+
 
 **Tree Map Breakdown**
 ![Tree Map View](<img width="1608" height="816" alt="Screenshot 2026-08-17 204804" src="https://github.com/user-attachments/assets/7eef043d-878e-4ab2-8d3a-b4fa2634276d" />
