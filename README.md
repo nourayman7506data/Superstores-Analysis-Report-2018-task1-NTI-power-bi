@@ -21,7 +21,8 @@ An interactive Power BI report and dashboard designed to analyze and summarize s
 ا)
 
 ### 3. Detailed Data View
-![Details View](<img width="1569" height="809" alt="Screenshot 2026-08-17 204727" src="https://github.com/user-attachments/assets/c35b76d9-c071-417c-af70-176cc247e888" />
+![Details View](<img width="1569" height="809" alt="Screenshot 2026-08-17 204727" src="https://github.com/user-attachments/assets/995cd93d-8f4b-454a-afc7-5d4aad9d2072" />
+
 )
 
 ---
