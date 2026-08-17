@@ -4,20 +4,6 @@ An interactive Power BI report and dashboard designed to analyze and summarize s
 
 ---
 
-## 📸 Dashboard Preview
-
-### 1. Main Overview Dashboard
-![Dashboard Overview](path/to/your/dashboard_image.png)
-
-### 2. Geographic & State Distribution
-| Filled Map View | Tree Map Breakdown |
-| :---: | :---: |
-| ![Map View](path/to/your/map_image.png) | ![Tree Map View](path/to/your/treemap_image.png) |
-
-### 3. Detailed Data View
-![Details View](path/to/your/details_image.png)
-
----
 
 ## 🎯 Project Overview & Key Insights
 
